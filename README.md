@@ -13,5 +13,5 @@ Given the data on the reviews, try to answer the following questions:
 R(Tidyverse, Tidytext, Wordcloud, Topicmodels)
 
 **Data Source:**
-- airbnb_reviews_csv: CSV file containing 1000 reviews for a subset of short-term Airbnb rentals within a particular Boston area to be used for our analyses.
+airbnb_reviews_csv: CSV file containing 1000 reviews for a subset of short-term Airbnb rentals within a particular Boston area to be used for our analyses.
 
